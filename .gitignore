@@ -1,1 +1,3 @@
-pack/blah/start/vim-clang-format
+pack/
+plugged/
+.netrwhist
